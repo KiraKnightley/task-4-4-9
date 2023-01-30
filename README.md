@@ -1,4 +1,4 @@
-Post запрос по ссылке https://blog.kata.academy/api/users /n
+Post запрос по ссылке https://blog.kata.academy/api/users
 body: 
 {
 "user": {
